@@ -26,11 +26,7 @@ Remove [ '#' from --noconsole ]
  </tr>
  </table>
  
-----------------------------------------------------------
 
-<img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture2.PNG">
-
-----------------------------------------------------------
 
 ## Run:
 
@@ -41,5 +37,3 @@ Remove [ '#' from --noconsole ]
 this tool is made only for study purpose any abuse or misuse of the tool im not a part of it !!!</p>
 
 
-<img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture.PNG">
-<hr>
